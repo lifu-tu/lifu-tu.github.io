@@ -51,8 +51,30 @@ Lifu Tu, Kevin Gimpel
 
 
 [Quality Signals in Generated Stories](http://ttic.uchicago.edu/~kgimpel/papers/sagarkar+etal.starsem18.pdf)
-'*'SEM 2018
+* SEM 2018
 Manasvi Sagarkar, John Wieting, Lifu Tu, Kevin Gimpel
+
+[Learning to Embed Words in Context for Syntactic Tasks](https://arxiv.org/abs/1706.02807)
+Lifu Tu, Kevin Gimpel, karen Livescu
+[ACL repl4NLP workshop 2017](https://sites.google.com/site/repl4nlp2017/accepted-papers) Best Paper Award
+[paper](https://arxiv.org/abs/1706.02807) [poster](http://lifu-tu.github.io/files/rep4nlp.pdf) [TE\_TweeboParser](https://github.com/lifu-tu/TE_TweeboParser")
+
+
+[Pay Attention to the Ending: Strong Neural Baselines for the ROC Story Cloze Task](https://aclanthology.org/P17-2097/)
+Zheng Cai, Lifu Tu, Kevin Gimpel
+ACL 2017
+[paper](https://aclanthology.org/P17-2097/)
+
+
+[Commonsense Knowledge Base Completion](http://aclweb.org/anthology/P16-1137)
+ACL 2016
+Xiang Li, Aynaz Taheri, Lifu Tu, Kevin Gimpel
+[paper](http://aclweb.org/anthology/P16-1137) [resources](http://ttic.uchicago.edu/~kgimpel/commonsense.html)
+
+
+[Network Inference by Learned Node-Specific Degree Prior](https://arxiv.org/pdf/1602.02386v1.pdf)
+Qingming Tang * , Lifu Tu * , Weiran Wang * , Aly A. Khan and Jinbo Xu
+[paper](https://arxiv.org/pdf/1602.02386v1.pdf)
 
 <!--
 #{% if author.googlescholar %}
