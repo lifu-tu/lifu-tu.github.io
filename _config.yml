@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lifu Tu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lifu Tu"
+description              : &description "I am a research scientist at Salesforce AI Research. I got my Ph.D. from TTI-Chicago, a philanthropically endowed academic computer science institute located on the University of Chicago campus. My advisor is Kevin Gimpel. My current research focus is on natural language processing and deep learning, especially energy-based models and approximated inference networks. I am also doing some work on model robustness and representation learning."
+url                      : https://lifu-tu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lifu-tu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
