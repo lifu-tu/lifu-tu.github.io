@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Lif Tu's home on the web!
+This is Lifu Tu's home on the web!
 
 I am a research scientist at Salesforce AI Research. I got my Ph.D. from TTI-Chicago, a philanthropically endowed academic computer science institute located on the University of Chicago campus. My advisor is Kevin Gimpel. My current research focus is on natural language processing and deep learning, especially energy-based models and approximated inference networks. I am also doing some work on model robustness and representation learning.
