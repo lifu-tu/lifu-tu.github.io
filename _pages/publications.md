@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-###
+### Also see my profiles on Google Scholar and Semantic Scholar
 
 - [Learning Energy-Based Approximate Inference Networks for Structured Applications in NLP](https://arxiv.org/pdf/2108.12522.pdf)
 Lifu Tu
