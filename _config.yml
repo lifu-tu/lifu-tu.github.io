@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.Tu"
+  name             : "Dr.Lifu Tu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a research scientist at Salesforce AI Research. I got my Ph.D. from TTI-Chicago, a philanthropically endowed academic computer science institute located on the University of Chicago campus. My advisor is Kevin Gimpel. My current research focus is on natural language processing and deep learning, especially energy-based models and approximated inference networks. I am also doing some work on model robustness and representation learning."
   location         : "California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
