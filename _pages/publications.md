@@ -52,7 +52,7 @@ Lifu Tu, Kevin Gimpel
 
 
 - [Quality Signals in Generated Stories](http://ttic.uchicago.edu/~kgimpel/papers/sagarkar+etal.starsem18.pdf)
-* SEM 2018
+ * SEM 2018
 Manasvi Sagarkar, John Wieting, Lifu Tu, Kevin Gimpel
 
 - [Learning to Embed Words in Context for Syntactic Tasks](https://arxiv.org/abs/1706.02807)
