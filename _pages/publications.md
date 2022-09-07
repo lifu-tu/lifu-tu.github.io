@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-##### Also see my profiles on Google Scholar and Semantic Scholar
+### Also see my profiles on Google Scholar and Semantic Scholar
 
 - [Learning Energy-Based Approximate Inference Networks for Structured Applications in NLP](https://arxiv.org/pdf/2108.12522.pdf)
 Lifu Tu
@@ -51,8 +51,7 @@ Lifu Tu, Kevin Gimpel
 [paper]() [poster](http://lifu-tu.github.io/files/InfNet_poster.pdf) [code](https://github.com/lifu-tu/INFNET) [OpenReview](https://openreview.net/forum?id=H1WgVz-AZ) 
 
 
-- [Quality Signals in Generated Stories](http://ttic.uchicago.edu/~kgimpel/papers/sagarkar+etal.starsem18.pdf)
- * SEM 2018
+- [Quality Signals in Generated Stories](http://ttic.uchicago.edu/~kgimpel/papers/sagarkar+etal.starsem18.pdf) * SEM 2018
 Manasvi Sagarkar, John Wieting, Lifu Tu, Kevin Gimpel
 
 - [Learning to Embed Words in Context for Syntactic Tasks](https://arxiv.org/abs/1706.02807)
