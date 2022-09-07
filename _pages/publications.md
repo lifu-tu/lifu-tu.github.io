@@ -14,7 +14,7 @@ author_profile: true
 
 - [An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks](https://arxiv.org/pdf/2010.02789.pdf)
 <br/> EMNLP 2020
-<br/> Lifu Tu, Tianyu Liu, kevin Gimpel
+<br/> Lifu Tu * , Tianyu Liu * , kevin Gimpel
 <br/> [paper](https://arxiv.org/abs/2010.02789.pdf") [slides](http://lifu-tu.github.io/files/HighOrderEMNLP2020.pdf) [code](https://github.com/tyliupku/Arbitrary-Order-Infnet)
 
 
