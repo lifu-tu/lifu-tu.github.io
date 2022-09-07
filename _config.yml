@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lifu Tu"
   avatar           : "profile.jpg"
-  bio              : "A NLP researcher"
+  bio              : # "A NLP researcher"
   location         : "California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
