@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Also see my profiles on Google Scholar and Semantic Scholar
+### Also see my profiles on Google Scholar and [Semantic Scholar](https://www.semanticscholar.org/author/Lifu-Tu/3376969)
+
+- [Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models](https://arxiv.org/pdf/2210.12360.pdf)
+<br/> Lifu Tu, Caiming Xiong, Yingbo Zhou
+<br/> EMNLP 2022 
+
+- [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
+<br/> Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio Savarese, Caiming Xiong
 
 - [Learning Energy-Based Approximate Inference Networks for Structured Applications in NLP](https://arxiv.org/pdf/2108.12522.pdf)
 <br/> Lifu Tu
