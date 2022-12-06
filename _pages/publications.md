@@ -10,6 +10,7 @@ author_profile: true
 - [Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models](https://arxiv.org/pdf/2210.12360.pdf)
 <br/> Lifu Tu, Caiming Xiong, Yingbo Zhou
 <br/> EMNLP 2022 
+<br/> [paper](https://arxiv.org/pdf/2210.12360.pdf) [code](https://github.com/salesforce/MPT)
 
 - [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
 <br/> Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio Savarese, Caiming Xiong
