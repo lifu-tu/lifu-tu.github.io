@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Also see my profiles on [Google Scholar][https://scholar.google.com/citations?hl=en&user=nSJrzBwAAAAJ] and [Semantic Scholar](https://www.semanticscholar.org/author/Lifu-Tu/3376969)
+### Also see my profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nSJrzBwAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Lifu-Tu/3376969)
 
 - [Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models](https://arxiv.org/pdf/2210.12360.pdf)
 <br/> Lifu Tu, Caiming Xiong, Yingbo Zhou
