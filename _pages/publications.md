@@ -7,6 +7,16 @@ author_profile: true
 
 ### Also see my profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nSJrzBwAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Lifu-Tu/3376969)
 
+
+- [Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning
+](https://arxiv.org/pdf/2304.01295.pdf)
+<br/> Lifu Tu, Jin Qu, Semih Yavuz, Shafiq Joty, Wenhao Liu, Caiming Xiong, Yingbo Zhou
+
+- [AugTriever: Unsupervised Dense Retrieval by Scalable Data Augmentation
+](https://arxiv.org/pdf/2212.08841.pdf)
+<br/> Rui et al.
+
+
 - [Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models](https://arxiv.org/pdf/2210.12360.pdf)
 <br/> Lifu Tu, Caiming Xiong, Yingbo Zhou
 <br/> EMNLP 2022 
@@ -14,6 +24,7 @@ author_profile: true
 
 - [CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis](https://arxiv.org/abs/2203.13474)
 <br/> Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio Savarese, Caiming Xiong
+<br/> ICLR 2023
 
 - [Learning Energy-Based Approximate Inference Networks for Structured Applications in NLP](https://arxiv.org/pdf/2108.12522.pdf)
 <br/> Lifu Tu
