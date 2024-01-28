@@ -18,7 +18,6 @@ author_profile: true
 
 - [AugTriever: Unsupervised Dense Retrieval by Scalable Data Augmentation
 ](https://arxiv.org/pdf/2212.08841.pdf)
-<br/> Rui et al.
 
 
 - [Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models](https://arxiv.org/pdf/2210.12360.pdf)
