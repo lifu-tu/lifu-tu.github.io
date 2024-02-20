@@ -8,6 +8,11 @@ author_profile: true
 ### Also see my profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nSJrzBwAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Lifu-Tu/3376969)
 
 
+- [Unlocking Anticipatory Text Generation: A Constrained Approach for Large Language Models Decoding
+](https://arxiv.org/pdf/2312.06149.pdf)
+<br/> Lifu Tu, Semih Yavuz, Jin Qu, Jiacheng Xu, Rui Meng, Caiming Xiong, Yingbo Zhou
+<br/> Arxiv 2024
+
 - [Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning
 ](https://arxiv.org/pdf/2304.01295.pdf)
 <br/> Lifu Tu, Jin Qu, Semih Yavuz, Shafiq Joty, Wenhao Liu, Caiming Xiong, Yingbo Zhou
