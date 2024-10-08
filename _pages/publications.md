@@ -11,7 +11,21 @@ author_profile: true
 - [Unlocking Anticipatory Text Generation: A Constrained Approach for Large Language Models Decoding
 ](https://arxiv.org/pdf/2312.06149.pdf)
 <br/> Lifu Tu, Semih Yavuz, Jin Qu, Jiacheng Xu, Rui Meng, Caiming Xiong, Yingbo Zhou
-<br/> Arxiv 2024
+<br/> EMNLP 2024 [code](https://github.com/%20SalesforceAIResearch/Unlocking-TextGen)
+
+- [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations
+](https://arxiv.org/abs/2408.12590)
+<br/> Can Qin*, Congying Xia*,Krithika Ramakrishnan*,Michael Ryoo*,Lifu Tu*, Yihao Feng*, etc.
+<br/> ECCV24 AI4VA
+
+- [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models
+](https://arxiv.org/pdf/2410.02308)
+<br/>  Rui Meng, Ye Liu, Lifu Tu, Daqing He, Yingbo Zhou, Semih Yavuz
+<br/> Findings of EMNLP 2024
+
+- [AugTriever: Unsupervised Dense Retrieval by Scalable Data Augmentation
+](https://arxiv.org/pdf/2212.08841.pdf)
+<br/> The 4th International Workshop on Data-Centric AI at CIKM 2024 (DCAI-24)
 
 - [Efficiently Aligned Cross-Lingual Transfer Learning for Conversational Tasks using Prompt-Tuning
 ](https://arxiv.org/pdf/2304.01295.pdf)
@@ -20,9 +34,6 @@ author_profile: true
 <br/> [paper](https://arxiv.org/pdf/2304.01295.pdf) [code](https://github.com/salesforce/FewXC)
 
 - [XGen-7B Technical Report](https://arxiv.org/pdf/2309.03450.pdf)
-
-- [AugTriever: Unsupervised Dense Retrieval by Scalable Data Augmentation
-](https://arxiv.org/pdf/2212.08841.pdf)
 
 
 - [Prompt-Tuning Can Be Much Better Than Fine-Tuning on Cross-lingual Understanding With Multilingual Language Models](https://arxiv.org/pdf/2210.12360.pdf)
