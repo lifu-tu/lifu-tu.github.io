@@ -15,7 +15,7 @@ author_profile: true
 
 - [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations
 ](https://arxiv.org/abs/2408.12590)
-<br/> Can Qin*, Congying Xia*,Krithika Ramakrishnan*,Michael Ryoo*,Lifu Tu*, Yihao Feng*, etc.
+<br/> Can Qin *, Congying Xia *,Krithika Ramakrishnan *,Michael Ryoo *,Lifu Tu *, Yihao Feng *, etc.
 <br/> ECCV24 AI4VA
 
 - [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models
