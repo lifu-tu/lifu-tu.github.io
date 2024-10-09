@@ -11,7 +11,7 @@ author_profile: true
 - [Unlocking Anticipatory Text Generation: A Constrained Approach for Large Language Models Decoding
 ](https://arxiv.org/pdf/2312.06149.pdf)
 <br/> Lifu Tu, Semih Yavuz, Jin Qu, Jiacheng Xu, Rui Meng, Caiming Xiong, Yingbo Zhou
-<br/> EMNLP 2024 [code](https://github.com/%20SalesforceAIResearch/Unlocking-TextGen)
+<br/> EMNLP 2024 [code](https://github.com/SalesforceAIResearch/Unlocking-TextGen)
 
 - [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations
 ](https://arxiv.org/abs/2408.12590)
