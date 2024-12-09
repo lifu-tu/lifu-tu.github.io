@@ -7,6 +7,10 @@ author_profile: true
 
 ### Also see my profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nSJrzBwAAAAJ) and [Semantic Scholar](https://www.semanticscholar.org/author/Lifu-Tu/3376969)
 
+- [Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown
+](https://arxiv.org/abs/2411.15993)
+<br/> Lifu Tu, Rui Meng, Shafiq Joty, Yingbo Zhou, Semih Yavuz
+
 
 - [Unlocking Anticipatory Text Generation: A Constrained Approach for Large Language Models Decoding
 ](https://arxiv.org/pdf/2312.06149.pdf)
