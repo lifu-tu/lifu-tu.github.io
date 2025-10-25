@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lifu Tu &#28034;&#21033;&#31119"
   avatar           : "profile.png"
-  bio              : "Person email: lifutu8 at gmail.com"
+  bio              : #"Person email: lifutu8 at gmail.com"
   location         : "California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
